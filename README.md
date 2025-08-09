@@ -1,5 +1,17 @@
 # FullBright (Bedrock) – Cheats OFF Resource Pack
 
+---
+
+## 📦 Pack Info
+
+- **Name:** FullBright_Pro  
+- **Version:** 1.1.0  
+- **Release Date:** August 2025  
+- **Creator:** Leo Termado  
+- **Instagram:** [@leo.tdo](https://instagram.com/leo.tdo)
+
+---
+
 A lightweight resource pack that makes the world look bright by removing heavy fog and boosting clarity — **no commands, no behavior packs, achievements stay ON**.
 
 If you want brightness without turning on cheats (and without running /effect), this pack is for you. It pairs nicely with x-ray resource packs and works on Realms/servers that allow resource packs.
