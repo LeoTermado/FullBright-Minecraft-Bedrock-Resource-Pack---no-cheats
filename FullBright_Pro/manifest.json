@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "FullBright (Cheats OFF)",
+    "description": "Reduces fog to approximate full brightness without commands.",
+    "uuid": "a4bb19e7-4b15-43f5-be49-090f9f62848d",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "eefecce8-9659-4fb8-8c3e-1ca57e9feec0",
+      "version": [1, 0, 0],
+      "description": "FullBright visuals"
+    }
+  ],
+  "metadata": {
+    "authors": ["LeoTermado"],
+    "license": "MIT"
+  }
+}

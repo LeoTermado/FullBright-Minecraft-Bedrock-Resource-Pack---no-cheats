@@ -1,0 +1,8 @@
+{
+  "biomes": {
+    "default": {
+      "fog_identifier": "leotdoo:fullbright",
+      "remove_all_prior_fog": true
+    }
+  }
+}
