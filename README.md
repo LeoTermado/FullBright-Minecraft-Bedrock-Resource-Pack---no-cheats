@@ -27,6 +27,9 @@ If you want brightness without turning on cheats (and without running /effect), 
 
 ## 🔨 How to Use It
 
+**Import**
+1. Download the mcpack file and click to import
+
 **World-only activation**
 1. From the main menu, click **Edit** on your world.
 2. Go to **Resource Packs → Available → FullBright (Cheats OFF)** → **Activate**.
